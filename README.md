@@ -4,12 +4,12 @@ I'm Craig! I'm a Lead Developer at Analog Republic!
 
 ---
 
-- 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning how to be a human being.
+- 🔭 I’m currently working on developing a board game.
+- 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on fun projects.
-- 🤔 I’m looking for help with life.
+- 🤔 I’m looking for help with work life balance.
 - 💬 Ask me about anything.
-- 📫 How to reach me: with your arms.
+- 📫 How to reach me: Twitter (_craigchilds)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I exist.
 
