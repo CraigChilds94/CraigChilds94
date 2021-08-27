@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Craig! I'm a Lead Developer at Analog Republic!
+I'm Craig! I'm a Senior Engineer at Shopify
 
 ---
 
