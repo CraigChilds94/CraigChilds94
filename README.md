@@ -4,8 +4,8 @@ I'm Craig! I'm a Senior Engineer at Shopify
 
 ---
 
-- 🔭 I’m currently working on developing a board game.
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently focusing on the important things in life.
+- 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on fun projects.
 - 🤔 I’m looking for help with work life balance.
 - 💬 Ask me about anything.
