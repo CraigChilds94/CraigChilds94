@@ -11,7 +11,7 @@ I'm Craig! I'm a Senior Engineer at Shopify
 - 💬 Ask me about anything.
 - 📫 How to reach me: Twitter (_craigchilds)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I exist.
+- ⚡ Fun fact: Code excites me more than it should 👀.
 
 ---
 
