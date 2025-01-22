@@ -5,13 +5,11 @@ I'm Craig! I'm a Senior Engineer at Shopify
 ---
 
 - 🔭 I’m currently focusing on the important things in life.
-- 🌱 I’m currently learning how to be a great mentor.
+- 🌱 I’m currently learning how to balance life and health.
 - 👯 I’m looking to collaborate on fun projects.
-- 🤔 I’m looking for help with all the damn hobbies I have haha.
 - 💬 Ask me about anything.
-- 📫 How to reach me: Twitter (_craigchilds)
+- 📫 How to reach me: X (_craigchilds)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Code excites me more than it should 👀.
 
 ---
 
