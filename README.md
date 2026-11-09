@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I'm Craig! I'm a Senior Engineer at Shopify
+I'm Craig! I'm a Senior Full-stack Engineer who's worked "agentically" for the past 3 years.
 
 ---
 
-- 🔭 I’m currently focusing on the important things in life.
-- 🌱 I’m currently learning how to balance life and health.
-- 👯 I’m looking to collaborate on fun projects.
+- 🔭 I’m currently focusing on developing new skills and side projects.
+- 🌱 I’m currently learning how to safely and efficiently incorporate AI into my workflows.
+- 👯 I’m looking for work.
 - 💬 Ask me about anything.
-- 📫 How to reach me: X (_craigchilds)
+- 📫 How to reach me: hi@craigchilds.me
 - 😄 Pronouns: he/him
 
 ---
