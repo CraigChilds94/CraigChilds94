@@ -15,5 +15,5 @@ I'm Craig! I'm a Senior Engineer at Shopify
 
 ![](https://komarev.com/ghpvc/?username=CraigChilds94)
 
-[![Craig's github stats](https://github-readme-stats.vercel.app/api?username=CraigChilds94)](https://github.com/anuraghazra/github-readme-stats)
+[![Craig's GitHub stats](https://github-stats-extended.vercel.app/api?username=CraigChilds94)](https://github.com/stats-organization/github-stats-extended)
 
